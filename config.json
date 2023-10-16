@@ -1,0 +1,9 @@
+{
+  "config": {
+    "bitrate": "800",
+    "callsign": "YD1RUH",
+    "model": "1035",
+    "serial": "/dev/ttyUSB0",
+    "baudrate": "19200"
+  }
+}
